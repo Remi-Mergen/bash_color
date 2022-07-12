@@ -10,7 +10,7 @@ Show your terminal's color with the number of the color
 ```
 - or to just run it without clone:
 ```bash
-curl https://raw.githubusercontent.com/Saverio976/fork-bash_color/master/color.sh | bash
+curl https://raw.githubusercontent.com/Remi-Mergen/bash_color/master/color.sh | bash
 ```
 
 ## Write
