@@ -1,9 +1,10 @@
 #!/bin/bash
 ##
-## EPITECH PROJECT, 2022
-## shell_programing
+## BASH PROJECT, 2022
+##  shell_programing
 ## File description:
-## color
+##  Display all 256 colors in terminal,
+##  switching between foreground and background
 ##
 
 for fgbg in 38 48 # Foreground / Background
